@@ -3,4 +3,4 @@
 
 
 hola compañeros
-me llamo juan y estoy haceindo el curso de fundamentos de android soy nuevo
+me llamo juan y estoy haciendo el curso de fundamentos de android soy nuevo
