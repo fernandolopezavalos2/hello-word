@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/marcianito_9">
+
+    <EditText
+        android:id="@+id/welcomeland"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/welcome"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="100dp"
+        tools:ignore="MissingConstraints"
+        android:layout_gravity="center_horizontal" />
